@@ -43,9 +43,13 @@ English：
 
 ## 相册
 
-- ![留念照：史蒂夫的辛酸故事](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/bg.png)
-- ![强大的武器：用这个世界上最昂贵的矿石制作，猜猜哪个武器伤害最高？哼！就让他自己去探索吧！](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/weapon.png)
-- ![安全的盔甲：用绿宝石提炼出的绿银合金打造的高级防御](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/weapon.png)
+
+- 留念照：史蒂夫的辛酸故事
+	- ![留念照：史蒂夫的辛酸故事](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/bg.png)
+- 强大的武器：用这个世界上最昂贵的矿石制作，猜猜哪个武器伤害最高？哼！就让他自己去探索吧！
+	- ![强大的武器：用这个世界上最昂贵的矿石制作，猜猜哪个武器伤害最高？哼！就让他自己去探索吧！](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/weapon.png)
+- 安全的盔甲：用绿宝石提炼出的绿银合金打造的高级防御
+	- ![安全的盔甲：用绿宝石提炼出的绿银合金打造的高级防御](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/weapon.png)
 
 
 

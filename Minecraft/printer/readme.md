@@ -23,5 +23,7 @@ English:
 
 ## 相册
 
-![打印机](https://github.com/WisdomEquan/mods/blob/master/Minecraft/printer/img/printer.PNG)
+
+- 打印机
+	- ![打印机](https://github.com/WisdomEquan/mods/blob/master/Minecraft/printer/img/printer.PNG)
 
