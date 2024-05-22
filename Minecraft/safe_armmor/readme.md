@@ -28,19 +28,6 @@ English：
 
 
 
-
-## 相册
-
-- ![留念照：史蒂夫的辛酸故事](Minecraft/safe_armmor/img/bg.png)
-- ![强大的武器：用这个世界上最昂贵的矿石制作，猜猜哪个武器伤害最高？哼！就让他自己去探索吧！](Minecraft/safe_armmor/img/weapon.png)
-- ![安全的盔甲：用绿宝石提炼出的绿银合金打造的高级防御](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/weapon.png)
-
-
-
-
-
-
-
 ## 小故事
 
 前几天史蒂夫抬着几箱子的绿宝石来找我制作一套强大的武器和防御力强大的装备，说着就打开的一个箱子，里面装着闪闪发着绿色光芒诱人的绿宝石。
@@ -50,6 +37,17 @@ English：
 史蒂夫说：因为我渴望力量，但是我又很懦弱无能，拜托你了。
 
 我点了根烟思考了片刻就答应了。
+
+
+
+
+## 相册
+
+- ![留念照：史蒂夫的辛酸故事](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/bg.png)
+- ![强大的武器：用这个世界上最昂贵的矿石制作，猜猜哪个武器伤害最高？哼！就让他自己去探索吧！](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/weapon.png)
+- ![安全的盔甲：用绿宝石提炼出的绿银合金打造的高级防御](https://github.com/WisdomEquan/mods/blob/master/Minecraft/safe_armmor/img/weapon.png)
+
+
 
 
 
